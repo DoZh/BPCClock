@@ -1,0 +1,3 @@
+"bpcclock.obj" 
+TO "bpcclock" 
+RAMSIZE(256) 
